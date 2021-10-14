@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @thanwtos
+- 👋 Hi, I’m @eoyami
 - 👀 I’m interested in  Web Development.
 - 🌱 I’m currently learning Front-end (HTML5, CSS3, JS).
